@@ -24,4 +24,4 @@ From Parmanand Sagar
 
 [Back][back]
 
-[back]: /
+[back]: /Gurbani-of-Bhagat-Parmanand-Ji/

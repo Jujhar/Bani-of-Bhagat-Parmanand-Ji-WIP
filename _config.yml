@@ -14,9 +14,9 @@
 #
 # Site settings
 #
-#domain: my-site.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-#url: https://my-site.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-#baseurl: /REPOSITORY-NAME/      # place folder name if the site is served in a subfolder
+domain: jujhar.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://jujhar.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: Gurbani-of-Bhagat-Parmanand-Ji/      # place folder name if the site is served in a subfolder
 #
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
@@ -27,8 +27,8 @@ title: Gurbani of Bhagat Parmanand Ji
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Select shabads in gurmukhi punjabi
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://github.com/Jujhar/Gurbani-of-Bhagat-Parmanand-Ji" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "https://github.com/Jujhar/Gurbani-of-Bhagat-Parmanand-Ji" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
 
