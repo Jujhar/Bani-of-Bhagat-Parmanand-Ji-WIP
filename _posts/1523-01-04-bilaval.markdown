@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Bilaval - Sangat/Motivation"
-date:   1523-01-02 09:55:32 -0700
+title:  "Bilaval - Sangat"
+date:   1523-01-04 09:55:32 -0700
 categories: jekyll update
 ---
 

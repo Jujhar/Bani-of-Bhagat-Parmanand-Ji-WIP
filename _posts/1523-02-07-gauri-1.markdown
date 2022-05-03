@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gauri - Pure joy"
-date:   1523-01-01 09:55:32 -0700
+date:   1523-02-07 09:55:32 -0700
 categories: jekyll update
 ---
 

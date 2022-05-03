@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bilaval - Presence"
+title:  "Bilaval - Temperapresence"
 date:   1523-01-03 09:55:32 -0700
 categories: jekyll update
 ---
@@ -22,7 +22,7 @@ categories: jekyll update
 
 ਕ੍ਰਿਸ਼੍ਣ ਪਕ੍ਸ਼ ਭਾਦੌਂ ਨਿਸਿ ਆਟੇਂ ਘਰ ਘਰ ਬਜਤਿ ਬਧਾਈ ॥
 ਬੰਦੀਜਨ ਔ ਭਾਟ ਬ੍ਰਾਹ੍ਮਨ ਦੇਸ ਦੇਸ ਤੈ ਆਏ ।
-ਦਿਏ ਪਟੰਬਰ ਭੂਸ਼ਨ ਅੰਬਰ ਜੋ ਜਾਕੇ ਮਨ ਭਾਏ।।
+ਦਿਏ ਪਟੰਬਰ ਭੂਸ਼ਨ ਅੰਬਰ ਜੋ ਜਾਕੇ ਮਨ ਭਾਏ ॥
 ਤੁਮ ਬਿਨ ਔਰ ਕੌਨ ਤ੍ਰਿਭੁਵਨ ਮੇਂ ਦਿਯੋ ਮਨਹਿੰ ਬਢਾਈ ॥
 <em>ਪਰਮਾਨੰਦਦਾਸ</em> ਪ੍ਰਭੁ ਕੇ ਹਿਤ ਕਾਰਨ ਔ ਸਬ ਜਾਤ ਜਿਬਾਈ ॥
 <br><small><small>॥2॥</small></small>
